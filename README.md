@@ -48,6 +48,8 @@ The project follows a modular and scalable architecture:
 - **Corporate View**: Platform-wide metrics for corporate oversight.
 
 
+Vercel Deployed Link : https://investment-dashboard-6nwi.vercel.app/dashboard
+
 ![image alt](https://github.com/Jay-byte389/Investment-Dashboard/blob/f9ca48b006c1b308b8be96555bb0b406924c2e1f/Screenshot%202026-04-15%20182313.png)
 ![image alt](https://github.com/Jay-byte389/Investment-Dashboard/blob/3a76821598f592b1eb89905435c6d6a6003b99a2/Screenshot%202026-04-15%20182321.png)
 ![image alt](https://github.com/Jay-byte389/Investment-Dashboard/blob/3a76821598f592b1eb89905435c6d6a6003b99a2/Screenshot%202026-04-15%20182331.png)
