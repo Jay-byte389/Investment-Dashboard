@@ -49,6 +49,12 @@ The project follows a modular and scalable architecture:
 
 
 ![image alt](https://github.com/Jay-byte389/Investment-Dashboard/blob/f9ca48b006c1b308b8be96555bb0b406924c2e1f/Screenshot%202026-04-15%20182313.png)
-
+![image alt](https://github.com/Jay-byte389/Investment-Dashboard/blob/3a76821598f592b1eb89905435c6d6a6003b99a2/Screenshot%202026-04-15%20182321.png)
+![image alt](https://github.com/Jay-byte389/Investment-Dashboard/blob/3a76821598f592b1eb89905435c6d6a6003b99a2/Screenshot%202026-04-15%20182331.png)
+![image alt](https://github.com/Jay-byte389/Investment-Dashboard/blob/3a76821598f592b1eb89905435c6d6a6003b99a2/Screenshot%202026-04-15%20182457.png)
+![image alt](https://github.com/Jay-byte389/Investment-Dashboard/blob/3a76821598f592b1eb89905435c6d6a6003b99a2/Screenshot%202026-04-15%20182508.png)
+![image alt](https://github.com/Jay-byte389/Investment-Dashboard/blob/3a76821598f592b1eb89905435c6d6a6003b99a2/Screenshot%202026-04-15%20182518.png)
+![image alt](https://github.com/Jay-byte389/Investment-Dashboard/blob/3a76821598f592b1eb89905435c6d6a6003b99a2/Screenshot%202026-04-15%20182527.png)
+![image alt](https://github.com/Jay-byte389/Investment-Dashboard/blob/3a76821598f592b1eb89905435c6d6a6003b99a2/Screenshot%202026-04-15%20182532.png)
 
 
