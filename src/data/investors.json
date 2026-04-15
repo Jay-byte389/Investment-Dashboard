@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "name": "Amit Shah",
+      "riskPreference": "High",
+      "budget": 100000,
+      "preferredIndustries": ["Tech", "Finance"]
+    },
+    {
+      "id": 2,
+      "name": "Neha Verma",
+      "riskPreference": "Low",
+      "budget": 40000,
+      "preferredIndustries": ["Healthcare", "Education"]
+    },
+    {
+      "id": 3,
+      "name": "Rahul Mehta",
+      "riskPreference": "Medium",
+      "budget": 60000,
+      "preferredIndustries": ["Real Estate", "Finance"]
+    },
+    {
+      "id": 4,
+      "name": "Priya Singh",
+      "riskPreference": "Low",
+      "budget": 30000,
+      "preferredIndustries": ["Agriculture"]
+    },
+    {
+      "id": 5,
+      "name": "Karan Patel",
+      "riskPreference": "High",
+      "budget": 120000,
+      "preferredIndustries": ["Tech", "Automobile"]
+    },
+    {
+      "id": 6,
+      "name": "Sneha Iyer",
+      "riskPreference": "Medium",
+      "budget": 70000,
+      "preferredIndustries": ["Healthcare", "Energy"]
+    },
+    {
+      "id": 7,
+      "name": "Arjun Reddy",
+      "riskPreference": "High",
+      "budget": 150000,
+      "preferredIndustries": ["Finance"]
+    },
+    {
+      "id": 8,
+      "name": "Meera Joshi",
+      "riskPreference": "Low",
+      "budget": 35000,
+      "preferredIndustries": ["Education"]
+    },
+    {
+      "id": 9,
+      "name": "Vikram Desai",
+      "riskPreference": "Medium",
+      "budget": 80000,
+      "preferredIndustries": ["Real Estate", "Tech"]
+    },
+    {
+      "id": 10,
+      "name": "Anjali Kapoor",
+      "riskPreference": "Low",
+      "budget": 25000,
+      "preferredIndustries": ["Healthcare"]
+    }
+  ]
